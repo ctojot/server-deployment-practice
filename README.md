@@ -26,4 +26,4 @@ params:
 
 ## Contributors
 
-Jacob Knaack
+ChristianRhey Tojot
